@@ -1,5 +1,6 @@
 # yt-dlp-nas
 ## project 
-youtube download and NAS server in docker.
-Fork from "https://github.com/hyeonsangjeon/youtube-dl-nas", and change "youtube-dl" to "yt-dlp" for faster download speed.
+- Youtube video auto download server and NAS server in docker.
+- Project base on "https://github.com/hyeonsangjeon/youtube-dl-nas", 
+- Change "youtube-dl" to "yt-dlp" for faster download speed.
 
